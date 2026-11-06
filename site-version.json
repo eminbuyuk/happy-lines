@@ -1,7 +1,7 @@
 {
   "version": "1.0.80",
-  "websiteRevision": "launch-1.0.80-20261106",
-  "builtAt": "2026-11-06T11:17:52.000Z",
+  "websiteRevision": "launch-1.0.81-20261106",
+  "builtAt": "2026-11-06T11:51:46.000Z",
   "languages": 5,
   "files": [
     {
@@ -95,9 +95,9 @@
       "sha256": "46dbd33bed90c8ae10b7d257d682aee30161d24e694c472e7890e1ca5a6aa99f"
     },
     {
-      "path": "assets/screens/en-US/05-sticker-story.webp",
-      "bytes": 72336,
-      "sha256": "f4b03a43d0da23f2d36becfe12152360da8d7d4fde3f2aad6f2295b2f3f61c9e"
+      "path": "assets/screens/en-US/05-garden.webp",
+      "bytes": 61770,
+      "sha256": "456db233b677cea21d9f668b03b7d307b2dfd58a0862c38705f2acc295bf0931"
     },
     {
       "path": "assets/screens/en-US/07-puzzle.webp",
@@ -120,9 +120,9 @@
       "sha256": "7d9e2dab1a04f8d6018cc513b24e1c2e036e82955124e90d834b3f7c347d3662"
     },
     {
-      "path": "assets/screens/es-419/05-sticker-story.webp",
-      "bytes": 69922,
-      "sha256": "202d02e38843b29d7bd47f6f58b99846f83c389b97b5ea4d94265b50ffd68dc6"
+      "path": "assets/screens/es-419/05-garden.webp",
+      "bytes": 61896,
+      "sha256": "9bf6bf02e4c936ebb2689f9d3d920b65f5a73aa0e2cb7f4bc5a40fcacf1d04d7"
     },
     {
       "path": "assets/screens/es-419/07-puzzle.webp",
@@ -145,9 +145,9 @@
       "sha256": "3687a31e94772964c715007b9069c1f4f2f1d6a9f064e81e2bb5f312b4d21d20"
     },
     {
-      "path": "assets/screens/id/05-sticker-story.webp",
-      "bytes": 72436,
-      "sha256": "f0ff4c629b0bd5212f4f2c33f545d1756df9729d545f8aaf7d179a6a50cebc6b"
+      "path": "assets/screens/id/05-garden.webp",
+      "bytes": 61292,
+      "sha256": "9910aad3640f25fdecfdc030c7624ac3f93ce79dbe3136ea8d6403cd6d5192b5"
     },
     {
       "path": "assets/screens/id/07-puzzle.webp",
@@ -170,9 +170,9 @@
       "sha256": "552ed5e95065d442c1e7107bedec358cc6d60c9a03c785218ddc27b71ee1e0c2"
     },
     {
-      "path": "assets/screens/pt-BR/05-sticker-story.webp",
-      "bytes": 69402,
-      "sha256": "b83e8a6bd40cf291593d1c262e68a78406d7113b1811c3edb5b91c7fe666e724"
+      "path": "assets/screens/pt-BR/05-garden.webp",
+      "bytes": 61972,
+      "sha256": "d80c07a8fb2fc97dc889d34d1f67ff98bad2401a75c2e2f7da33847aae14f40a"
     },
     {
       "path": "assets/screens/pt-BR/07-puzzle.webp",
@@ -195,9 +195,9 @@
       "sha256": "f4dfc0cde0a1113952770771e94a9dfae3d2f9fe2bd4d511b527531b42fec648"
     },
     {
-      "path": "assets/screens/tr-TR/05-sticker-story.webp",
-      "bytes": 72196,
-      "sha256": "3efb3a7583e69b5069cbec934e552b7a4d050cf43731cde0d5c5581f9f4c7079"
+      "path": "assets/screens/tr-TR/05-garden.webp",
+      "bytes": 62714,
+      "sha256": "943ecdc42a23c07d019988360f3c766ce026cad8542b8fa07c7c6f95bbfd2d85"
     },
     {
       "path": "assets/screens/tr-TR/07-puzzle.webp",
@@ -236,13 +236,13 @@
     },
     {
       "path": "en/index.html",
-      "bytes": 16715,
-      "sha256": "6260f8951b1d186fea8f22243f67477a5737c9a390e401713d157e0a3b2fe49e"
+      "bytes": 16716,
+      "sha256": "552e0e4085eab3f09e7ba50f0ec3232c6cff3405b032aed90d652b8e9fd9a816"
     },
     {
       "path": "en/lifetime.html",
-      "bytes": 14745,
-      "sha256": "032fb54f93734925ee814afa49c0a07f15bb875a05068801b5f4c300e6ddd72e"
+      "bytes": 14572,
+      "sha256": "2b14e4ef62252ef195bb91c09cd674bf2285e78d2bf023b66b34712fc8abaf01"
     },
     {
       "path": "en/support.html",
@@ -251,13 +251,13 @@
     },
     {
       "path": "es/index.html",
-      "bytes": 17174,
-      "sha256": "b74fe590f0d8b36b9e2c2a050dde830ab6a60ca6ec611ce5b1d4d24b327cf70d"
+      "bytes": 17137,
+      "sha256": "6a72487fd65c728ccbc7feadee4652554ebfef762965006330844cb6ada48bb8"
     },
     {
       "path": "es/lifetime.html",
-      "bytes": 14968,
-      "sha256": "89491394e42aed8ab08c3575cc9f3b03dee9c2f97977268a45056d659b515c20"
+      "bytes": 14801,
+      "sha256": "a65f6edc8aea92ea09b83418d6c0f6299bd7ba1ee534f12a4ff448b2d342f64d"
     },
     {
       "path": "es/support.html",
@@ -266,13 +266,13 @@
     },
     {
       "path": "id/index.html",
-      "bytes": 17040,
-      "sha256": "f5dd33caecd4b1c6c8a837d5a04da7cea07f0a77d3537e601051ebe333f45ada"
+      "bytes": 17007,
+      "sha256": "71065aa95273ed0191a5c158368ef0e183e9d2b150540516f5074f02395f5601"
     },
     {
       "path": "id/lifetime.html",
-      "bytes": 14822,
-      "sha256": "f4fcb07f3d335a66d87418baa54af69f52b66771e74950b7a7bf56b7bd59be9d"
+      "bytes": 14669,
+      "sha256": "c8cf4b850bd2ae0aa64a1674097ee875053fffcbeb0ce3bdcc7a011a7e0c56c4"
     },
     {
       "path": "id/support.html",
@@ -281,8 +281,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 17137,
-      "sha256": "1ac09af4ab4bacd541bdad1edd3dc7996356d22d3bad4d1c407f45f2fa96fdf0"
+      "bytes": 17138,
+      "sha256": "e78935c647bbb1f7cafba9dd62a5ee6179bd2fad8df094f277b61f64448c6365"
     },
     {
       "path": "licenses.html",
@@ -291,8 +291,8 @@
     },
     {
       "path": "lifetime.html",
-      "bytes": 15052,
-      "sha256": "0615370e25a61d10b9264981e6c77411cda4fc1bffca409ac8da26333183cd52"
+      "bytes": 14891,
+      "sha256": "4a45b9db1d07fee1a19e68d71337b92030c8266b2155560196f2e03167231c1c"
     },
     {
       "path": "privacy.html",
@@ -301,13 +301,13 @@
     },
     {
       "path": "pt-br/index.html",
-      "bytes": 17150,
-      "sha256": "9131f95e34970a0a9307a73268cd368203fbb866c9a5f8aa5de9c9be87346f97"
+      "bytes": 17101,
+      "sha256": "55a39dff32f7b5d8490b0f39fce76275c810cce62df44ba38b84388b14e65cbb"
     },
     {
       "path": "pt-br/lifetime.html",
-      "bytes": 14941,
-      "sha256": "5ef7186999a30a6e1e9b67a583ff54703774792cf5ffe79dfff3c97af8ad07eb"
+      "bytes": 14757,
+      "sha256": "14f0a827fb3ac6c6582fe296b645fb5735afb706c926951aa819cfa09de23f25"
     },
     {
       "path": "pt-br/support.html",
