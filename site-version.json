@@ -1,7 +1,7 @@
 {
   "version": "1.0.80",
   "websiteRevision": "launch-1.0.81-20261106",
-  "builtAt": "2026-11-06T11:51:46.000Z",
+  "builtAt": "2026-11-06T11:57:31.000Z",
   "languages": 5,
   "files": [
     {
@@ -296,8 +296,8 @@
     },
     {
       "path": "privacy.html",
-      "bytes": 12895,
-      "sha256": "d2873bc277f693a13fd235e8652f40824b29dbedbf9ec9a32bc30d0be4dd4f12"
+      "bytes": 12855,
+      "sha256": "b08411c2a74f5d4ab2b4f99fdd37866bc09a1a2448d5d3b1b16e411bb2c3072b"
     },
     {
       "path": "pt-br/index.html",
