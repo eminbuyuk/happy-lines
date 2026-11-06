@@ -1,7 +1,7 @@
 {
-  "version": "1.0.59",
-  "websiteRevision": "fairytale-parent-20261029",
-  "builtAt": "2026-10-29T18:43:26.837Z",
+  "version": "1.0.80",
+  "websiteRevision": "launch-1.0.80-20261106",
+  "builtAt": "2026-11-06T11:17:52.000Z",
   "languages": 5,
   "files": [
     {
@@ -11,8 +11,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 678,
-      "sha256": "bfbed8c3f0a3d079d7b4d766dbd31cd7e359dc39a4d4ad345ddf1db39bc6c1db"
+      "bytes": 698,
+      "sha256": "977fd38dd7b1062f195dc2a7169cf5a0908d1b5874332716a81eb76340918af0"
     },
     {
       "path": "assets/colouring.webp",
@@ -236,53 +236,53 @@
     },
     {
       "path": "en/index.html",
-      "bytes": 17156,
-      "sha256": "d23547b72c379563b27fc3656d059bfb5803f4848c5018cc93aa50d4bb730a44"
+      "bytes": 16715,
+      "sha256": "6260f8951b1d186fea8f22243f67477a5737c9a390e401713d157e0a3b2fe49e"
     },
     {
       "path": "en/lifetime.html",
-      "bytes": 15072,
-      "sha256": "a80d12e4571a9cebef7b96d59aa2b09bd47ad93bc188b7dcc2e0a21b4b5dbad4"
+      "bytes": 14745,
+      "sha256": "032fb54f93734925ee814afa49c0a07f15bb875a05068801b5f4c300e6ddd72e"
     },
     {
       "path": "en/support.html",
-      "bytes": 7092,
-      "sha256": "6253bc0b906527430554dc5e90f2d0b169bb62155d65637538cf7c96079648ba"
+      "bytes": 6943,
+      "sha256": "ead8cb84390776b67c267ac58f6817f77cffe2d903dc153ba74bc01420558f95"
     },
     {
       "path": "es/index.html",
-      "bytes": 17655,
-      "sha256": "1387da69d548c0148a9bb8b93edadc695c38d44b7b461f3194f4858dcb8bd7ad"
+      "bytes": 17174,
+      "sha256": "b74fe590f0d8b36b9e2c2a050dde830ab6a60ca6ec611ce5b1d4d24b327cf70d"
     },
     {
       "path": "es/lifetime.html",
-      "bytes": 15318,
-      "sha256": "6a34217aca25afde005dbe492b0a2e931a41b99c5ea3ef1d59757955b66eb641"
+      "bytes": 14968,
+      "sha256": "89491394e42aed8ab08c3575cc9f3b03dee9c2f97977268a45056d659b515c20"
     },
     {
       "path": "es/support.html",
-      "bytes": 7362,
-      "sha256": "84edbe1dc2403e03f1cef08afb21322ec1baf145ee37d707b10d6e01c80d59a6"
+      "bytes": 7226,
+      "sha256": "2cd1353b32403abeec834143b2aede34b400cc3e5d32c1c4d9e719e35ac25a6a"
     },
     {
       "path": "id/index.html",
-      "bytes": 17488,
-      "sha256": "f3750cdf1ccebc08f5e3f3a8df71b433f67367adb5787683002411fee0e4ca9e"
+      "bytes": 17040,
+      "sha256": "f5dd33caecd4b1c6c8a837d5a04da7cea07f0a77d3537e601051ebe333f45ada"
     },
     {
       "path": "id/lifetime.html",
-      "bytes": 15151,
-      "sha256": "a88c992fe13212b784d7c94392d7f5dd9bc3d679fe8b72aa01133052591a4499"
+      "bytes": 14822,
+      "sha256": "f4fcb07f3d335a66d87418baa54af69f52b66771e74950b7a7bf56b7bd59be9d"
     },
     {
       "path": "id/support.html",
-      "bytes": 7197,
-      "sha256": "4bc6503d6b1a9be28bd0ea62e429730d4e28b364202bd57455fa825f53d50537"
+      "bytes": 7063,
+      "sha256": "e01e61572bdfe95894fcc40736c7d192f40ee8c045cf5252487981e02144c5d9"
     },
     {
       "path": "index.html",
-      "bytes": 17610,
-      "sha256": "18b5339c02a686d8422b984b65884a386ada2019a873818b91e771232b60ee1c"
+      "bytes": 17137,
+      "sha256": "1ac09af4ab4bacd541bdad1edd3dc7996356d22d3bad4d1c407f45f2fa96fdf0"
     },
     {
       "path": "licenses.html",
@@ -291,8 +291,8 @@
     },
     {
       "path": "lifetime.html",
-      "bytes": 15412,
-      "sha256": "b002fb56169c85778821b55aaf03f80f6d6b08a789b296132d9d7109b3d1187f"
+      "bytes": 15052,
+      "sha256": "0615370e25a61d10b9264981e6c77411cda4fc1bffca409ac8da26333183cd52"
     },
     {
       "path": "privacy.html",
@@ -301,18 +301,18 @@
     },
     {
       "path": "pt-br/index.html",
-      "bytes": 17598,
-      "sha256": "aa3385f68984242ce65123b4ee9f15378d0b292eb0a30e4bcdabc46ea56a6b4a"
+      "bytes": 17150,
+      "sha256": "9131f95e34970a0a9307a73268cd368203fbb866c9a5f8aa5de9c9be87346f97"
     },
     {
       "path": "pt-br/lifetime.html",
-      "bytes": 15264,
-      "sha256": "284543adf1dcc385db6047bc0ec78d36cefe452f4f71b095c745f48ac8e2f70c"
+      "bytes": 14941,
+      "sha256": "5ef7186999a30a6e1e9b67a583ff54703774792cf5ffe79dfff3c97af8ad07eb"
     },
     {
       "path": "pt-br/support.html",
-      "bytes": 7309,
-      "sha256": "4f337d3d481f8e50512f283cbc30fe0ac10d1fdd406891072202a122295bd4a9"
+      "bytes": 7195,
+      "sha256": "6107395019f7445680c0d1d6b3829f2f353096eb0e02983696715f978b5c0680"
     },
     {
       "path": "robots.txt",
@@ -331,13 +331,13 @@
     },
     {
       "path": "sitemap.xml",
-      "bytes": 1428,
-      "sha256": "b393d4457569c2e1d44c3497eb7c42ff859bc008348a8a20cfe49d697f328360"
+      "bytes": 1793,
+      "sha256": "91a84556fcdab5ecfb1652f3771c093572038c0cb3a5fc025ad7314e68ab2d7c"
     },
     {
       "path": "support.html",
-      "bytes": 7205,
-      "sha256": "907912d58fb0e21eb89fbd4ea07ad5cec2df5bc8efe19792a05c1d7106ef0f11"
+      "bytes": 7027,
+      "sha256": "e528a8247cfe7212ea0675a6b1cfddb6229244515fa75aee6c77e58346d59fb2"
     },
     {
       "path": "terms.html",
