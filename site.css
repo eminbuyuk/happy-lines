@@ -9,3 +9,29 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
 
 .nojs-languages{display:flex;flex-wrap:wrap;gap:10px;font-size:12px}.header-inner>noscript{width:100%;order:5;padding-bottom:15px}
+/* Full version: mascot cards, side-by-side comparison, pay-once and owner card (site 1.1.2). */
+.full-badge{display:inline-block;vertical-align:middle;padding:3px 10px;border-radius:999px;background:#f2e6bc;color:#796031;font-family:system-ui,-apple-system,'Segoe UI',sans-serif;font-size:11px;font-weight:800;letter-spacing:.02em;line-height:1.5}
+.feature-item h3 .full-badge{margin-left:6px}
+.full-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:36px}
+.full-card{display:flex;flex-direction:column;align-items:flex-start;gap:10px;padding:20px 22px 24px;background:#fffdf4;border:1px solid var(--line);border-radius:26px}
+.full-card-art{align-self:stretch;display:grid;place-items:center;height:190px;margin-bottom:6px;border-radius:20px;background:linear-gradient(180deg,#fff3d6,#fdf8ea)}
+.full-card-art img{max-height:170px;width:auto;object-fit:contain}
+.full-card h3{margin:0;font-size:22px}
+.full-card p{margin:0;color:var(--muted);font-size:15px;line-height:1.6}
+.compare-intro{margin-bottom:28px}
+.compare-sub{margin:40px 0 16px;font-size:24px}
+tr.total-row th,tr.total-row td{font-weight:800;background:#f3f6ea}
+.pay-once{background:#fff6dc}
+.pay-once-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:48px;align-items:center}
+.once-list{list-style:none;margin:22px 0 0;padding:0;display:flex;flex-direction:column;gap:14px}
+.once-list li{display:flex;gap:12px;align-items:flex-start;font-size:17px;line-height:1.6;color:var(--ink)}
+.once-list svg{flex:none;width:24px;height:24px;margin-top:2px;color:#3f7a52}
+.owner-card{padding:24px;background:#fffdf4;border:1px solid #efe0b4;border-radius:28px;text-align:center;box-shadow:0 10px 30px #8a6d2a14}
+.owner-card img{width:min(100%,260px);margin:0 auto 10px}
+.owner-card h3{font-size:22px;margin-bottom:8px}
+.owner-card p{margin:0;color:var(--muted);font-size:15px}
+.full-teaser .teaser-list{margin:18px 0 26px;gap:10px}
+.full-teaser .teaser-list li{color:#fff4d7;font-size:16px}
+.full-teaser .teaser-list svg{color:#c1d2a5}
+@media(max-width:1080px){.full-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:800px){.full-cards{grid-template-columns:1fr}.pay-once-grid{grid-template-columns:1fr;gap:28px}.full-card-art{height:170px}.once-list li{font-size:16px}}
