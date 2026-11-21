@@ -1,7 +1,7 @@
 {
-  "version": "1.1.2",
-  "websiteRevision": "full-version-1.1.2-20261114",
-  "builtAt": "2026-11-14T11:28:22.000Z",
+  "version": "1.1.24",
+  "websiteRevision": "game-1.1.24-20261121",
+  "builtAt": "2026-11-21T19:56:28.000Z",
   "languages": 5,
   "files": [
     {
@@ -130,9 +130,9 @@
       "sha256": "46dbd33bed90c8ae10b7d257d682aee30161d24e694c472e7890e1ca5a6aa99f"
     },
     {
-      "path": "assets/screens/en-US/05-garden.webp",
-      "bytes": 61770,
-      "sha256": "456db233b677cea21d9f668b03b7d307b2dfd58a0862c38705f2acc295bf0931"
+      "path": "assets/screens/en-US/05-trip.webp",
+      "bytes": 35082,
+      "sha256": "1d80dee083dfdba250c7f36390e28b1d6235b3112a61c9dd61e3f9acd197543b"
     },
     {
       "path": "assets/screens/en-US/07-puzzle.webp",
@@ -155,9 +155,9 @@
       "sha256": "7d9e2dab1a04f8d6018cc513b24e1c2e036e82955124e90d834b3f7c347d3662"
     },
     {
-      "path": "assets/screens/es-419/05-garden.webp",
-      "bytes": 61896,
-      "sha256": "9bf6bf02e4c936ebb2689f9d3d920b65f5a73aa0e2cb7f4bc5a40fcacf1d04d7"
+      "path": "assets/screens/es-419/05-trip.webp",
+      "bytes": 35816,
+      "sha256": "56ff4b63a91514fdd3de45923e90cf522365f6802cab5f2b581bf895a00e9722"
     },
     {
       "path": "assets/screens/es-419/07-puzzle.webp",
@@ -180,9 +180,9 @@
       "sha256": "3687a31e94772964c715007b9069c1f4f2f1d6a9f064e81e2bb5f312b4d21d20"
     },
     {
-      "path": "assets/screens/id/05-garden.webp",
-      "bytes": 61292,
-      "sha256": "9910aad3640f25fdecfdc030c7624ac3f93ce79dbe3136ea8d6403cd6d5192b5"
+      "path": "assets/screens/id/05-trip.webp",
+      "bytes": 35360,
+      "sha256": "3f4532cfe46cf1018d8bb9b8cf593df53f7c1126ab8c060d7b14da33ce69785d"
     },
     {
       "path": "assets/screens/id/07-puzzle.webp",
@@ -205,9 +205,9 @@
       "sha256": "552ed5e95065d442c1e7107bedec358cc6d60c9a03c785218ddc27b71ee1e0c2"
     },
     {
-      "path": "assets/screens/pt-BR/05-garden.webp",
-      "bytes": 61972,
-      "sha256": "d80c07a8fb2fc97dc889d34d1f67ff98bad2401a75c2e2f7da33847aae14f40a"
+      "path": "assets/screens/pt-BR/05-trip.webp",
+      "bytes": 34072,
+      "sha256": "821221f15e66b73d3a8561c6329396651347c4edfc5bc8b6d27bcb27284a3467"
     },
     {
       "path": "assets/screens/pt-BR/07-puzzle.webp",
@@ -230,9 +230,9 @@
       "sha256": "f4dfc0cde0a1113952770771e94a9dfae3d2f9fe2bd4d511b527531b42fec648"
     },
     {
-      "path": "assets/screens/tr-TR/05-garden.webp",
-      "bytes": 62714,
-      "sha256": "943ecdc42a23c07d019988360f3c766ce026cad8542b8fa07c7c6f95bbfd2d85"
+      "path": "assets/screens/tr-TR/05-trip.webp",
+      "bytes": 34954,
+      "sha256": "f10ab714fe58f87b7508147faf4fd2c7e12824aa97af887ceabe128f51c03959"
     },
     {
       "path": "assets/screens/tr-TR/07-puzzle.webp",
@@ -271,73 +271,73 @@
     },
     {
       "path": "en/faq.html",
-      "bytes": 8041,
-      "sha256": "c989b7643dcab707f27f3948c4782010998da7c02244f77caf05f5cc06c7cba6"
+      "bytes": 8083,
+      "sha256": "cef04f7c73842f2e3066218ac4c71cee196d0bfba5066eff5559fbdc0e9624b4"
     },
     {
       "path": "en/index.html",
-      "bytes": 17890,
-      "sha256": "35dbed6ee75517867121ce1899f15a77f4d60489486d4b2893eda1daaf49b793"
+      "bytes": 18103,
+      "sha256": "d024aad86921c161bf82c7cd834baaf121a6255a093bf6ccc3b27bf4f850b584"
     },
     {
       "path": "en/lifetime.html",
-      "bytes": 19203,
-      "sha256": "b19569b3e4624bb00c991cdebc69a882bd34f1da657396bdcc3586ed5d78d586"
+      "bytes": 19345,
+      "sha256": "5fff1e2c4a0ee5ba6c258c011bbb6b4a31993a7295e3b4a3aaee38cca5e86abc"
     },
     {
       "path": "en/support.html",
-      "bytes": 6943,
-      "sha256": "ead8cb84390776b67c267ac58f6817f77cffe2d903dc153ba74bc01420558f95"
+      "bytes": 7076,
+      "sha256": "20c8a1d2cb799eea90d7ea4ab588e8c7d755378521bbea9cc552256ddd517346"
     },
     {
       "path": "es/faq.html",
-      "bytes": 8542,
-      "sha256": "a6826ca665a6f6c76f8421a6984182e431d6aab17230366308d0322f9141fe2c"
+      "bytes": 8564,
+      "sha256": "964318eaee50dc5bcdd538fe727fc33c2a7755715bdd193b56985b4fe13663ff"
     },
     {
       "path": "es/index.html",
-      "bytes": 18337,
-      "sha256": "b2c1c0baa519a172c068a6225b9a287514f7bd83a7474901b572457aea9c5bc4"
+      "bytes": 18600,
+      "sha256": "9ad249348aa6dbdd7cfce9dc259bc99587557ca9da9d801262ff34f3c3023ace"
     },
     {
       "path": "es/lifetime.html",
-      "bytes": 19840,
-      "sha256": "c1eeb6417a4e1809a8776440fdcb643dddb252d386e6fb5e9bd14048b2ac1399"
+      "bytes": 20002,
+      "sha256": "f332cbc9198e129ca52033d86224c7a7a08c3a13cd02c9e3d839f7f4498dc413"
     },
     {
       "path": "es/support.html",
-      "bytes": 7226,
-      "sha256": "2cd1353b32403abeec834143b2aede34b400cc3e5d32c1c4d9e719e35ac25a6a"
+      "bytes": 7385,
+      "sha256": "3d8493c532082bd29292d184aae36524192c3111ea980accc22e81a93cc189aa"
     },
     {
       "path": "faq.html",
-      "bytes": 8089,
-      "sha256": "519c8d3f6b594887c1bbf2c040b92182ad1cc16d1726aadcc9dfdc84f2f1b344"
+      "bytes": 8145,
+      "sha256": "b6cb4ac0d85a1c5379ac7fce322fafc340463e4ac8b6a802e7b07272ccf1e6ea"
     },
     {
       "path": "id/faq.html",
-      "bytes": 8140,
-      "sha256": "38a8e87571984c678870e6fec71b88079d2f39d2d24616096d3a9d3aa101732e"
+      "bytes": 8178,
+      "sha256": "40a23522e8da80fbfd737fbf655d1a7d63f650ff338915a40305d13aa77524c8"
     },
     {
       "path": "id/index.html",
-      "bytes": 18208,
-      "sha256": "604b269383d73037def37c4d4bb5365c724d36c26fe22d76978d14d4fa92e0fe"
+      "bytes": 18491,
+      "sha256": "203251fdd347b5a004bb30fe8ccead81944e7cb83deb8af6c58c8c036a475e4b"
     },
     {
       "path": "id/lifetime.html",
-      "bytes": 19532,
-      "sha256": "1fd744fefa0fade79e82aef6c9ea4858dcd3e2b927da3e536e79c2fc6d3ad4c8"
+      "bytes": 19716,
+      "sha256": "cc530caedb2d5002dbbe6ba8d41418b981831ee688e219e065d6f70f3fbf152e"
     },
     {
       "path": "id/support.html",
-      "bytes": 7063,
-      "sha256": "e01e61572bdfe95894fcc40736c7d192f40ee8c045cf5252487981e02144c5d9"
+      "bytes": 7204,
+      "sha256": "f158ffbfcc5b41c626677cb782115b720349581b422e5bc705b15af1dbd870d3"
     },
     {
       "path": "index.html",
-      "bytes": 18273,
-      "sha256": "e405b27d816d5be7f9043ea568e58729e76b2903ffca417c00fc246177f15ada"
+      "bytes": 18467,
+      "sha256": "9bbbd48b1a56fff481128ddbc5b8e301cfe91a40bb7d9d87ccb3f650530373b4"
     },
     {
       "path": "licenses.html",
@@ -346,33 +346,33 @@
     },
     {
       "path": "lifetime.html",
-      "bytes": 19609,
-      "sha256": "3a83dc612434f3bf718a1dcd8a6ff7add55f1b685afc5be8ca03c81f3031c9b3"
+      "bytes": 19718,
+      "sha256": "45e3798a6d7579f9329aba6b3f2ec3e313e3ca603d180348b6d5f969325ccd46"
     },
     {
       "path": "privacy.html",
-      "bytes": 12726,
-      "sha256": "f92ee578e0a8bf2b0683701b0edf76fc0918bb9439bc1a18a96283f71d3311ed"
+      "bytes": 13139,
+      "sha256": "d73928158c33b4e10d112529628c3da53de4d63f0eceecc1962dc661a59c9015"
     },
     {
       "path": "pt-br/faq.html",
-      "bytes": 8387,
-      "sha256": "127c64d64cd21f3caacc8aa638a9345ecc6aec2282e256bb2f5443d7b889197a"
+      "bytes": 8436,
+      "sha256": "74a03a3ace68547759748c5c02492afc4abcdbf9d1759ce521c6e7a6f670d2b0"
     },
     {
       "path": "pt-br/index.html",
-      "bytes": 18290,
-      "sha256": "d90be4b6ebd712e9aee7445a223510b4a9ed915f5abb39a4d5906af6d507af55"
+      "bytes": 18561,
+      "sha256": "695c459509849fb7af9c789ea1f54f17a163aab697fe164f8d707e417905d85e"
     },
     {
       "path": "pt-br/lifetime.html",
-      "bytes": 19775,
-      "sha256": "9d1da8292e63de917820d29e7d5678dd6f6359a871256904f5b6c85e45954acd"
+      "bytes": 19920,
+      "sha256": "ef1412ab8fa5608de58d4cf0e6549aa407d4b2bdde7aea21e02b54d031f315de"
     },
     {
       "path": "pt-br/support.html",
-      "bytes": 7195,
-      "sha256": "6107395019f7445680c0d1d6b3829f2f353096eb0e02983696715f978b5c0680"
+      "bytes": 7345,
+      "sha256": "1578245e6b8dee38e835501e79a29c3ff6d26c620c88bf3a419d419122a1d6a4"
     },
     {
       "path": "robots.txt",
@@ -396,8 +396,8 @@
     },
     {
       "path": "support.html",
-      "bytes": 7027,
-      "sha256": "e528a8247cfe7212ea0675a6b1cfddb6229244515fa75aee6c77e58346d59fb2"
+      "bytes": 7177,
+      "sha256": "d23229b2037c644890a4afafd889392006015a8f83c583493ec1ec65e3893821"
     },
     {
       "path": "terms.html",
